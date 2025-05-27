@@ -1,0 +1,9 @@
+#gallery {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.gallery__img {
+    width: 300px;
+}
